@@ -1,0 +1,1003 @@
+[{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c7b"
+  },
+  "id": 1,
+  "title": "Technical Writer",
+  "company_name": "ZPE Systems",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c7c"
+  },
+  "id": 2,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c7d"
+  },
+  "id": 3,
+  "title": "Automation Testing Engineer",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c7e"
+  },
+  "id": 4,
+  "title": "Quality Assurance Engineer (Python Automation)",
+  "company_name": "NetApp",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c7f"
+  },
+  "id": 5,
+  "title": "Associate Multi-Skill Software Developer - .Net & Cloud",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c80"
+  },
+  "id": 6,
+  "title": "Versatile Team - Experienced Multi-Skill Software Developer (Java & Cloud)",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c81"
+  },
+  "id": 7,
+  "title": "Senior Software Engineer - Display",
+  "company_name": "ARM",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c82"
+  },
+  "id": 8,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote in Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c83"
+  },
+  "id": 9,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote in Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c84"
+  },
+  "id": 10,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c85"
+  },
+  "id": 11,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c86"
+  },
+  "id": 12,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote in Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c87"
+  },
+  "id": 13,
+  "title": "Engineering Manager",
+  "company_name": "Capital One",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c88"
+  },
+  "id": 14,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c89"
+  },
+  "id": 15,
+  "title": "Associate Multi-Skill Software Developer - .Net & Cloud",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8a"
+  },
+  "id": 16,
+  "title": "QA Engineer - Performance Testing",
+  "company_name": "Talent500 Tech (India) Private Limited",
+  "company_location": "Kochi, Kerala",
+  "salary": 2400000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8b"
+  },
+  "id": 17,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8c"
+  },
+  "id": 18,
+  "title": "Senior Manager, Principal Software Engineer - Document Generation",
+  "company_name": "Bristol Myers Squibb",
+  "company_location": "Hyderabad, Telangana",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8d"
+  },
+  "id": 19,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote in Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8e"
+  },
+  "id": 20,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote in Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c8f"
+  },
+  "id": 21,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c90"
+  },
+  "id": 22,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c91"
+  },
+  "id": 23,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c92"
+  },
+  "id": 24,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote in Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c93"
+  },
+  "id": 25,
+  "title": "JavaScript, Python and Linux Developer",
+  "company_name": "Infosys",
+  "company_location": "Thiruvananthapuram, Kerala",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c94"
+  },
+  "id": 26,
+  "title": "Junior Python Developer",
+  "company_name": "Wisdomleaf Technologies (P) Limited",
+  "company_location": "India",
+  "salary": 350000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c95"
+  },
+  "id": 27,
+  "title": "Senior Python Developer",
+  "company_name": "Project 42 Labs",
+  "company_location": "Remote in Remote",
+  "salary": 900000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c96"
+  },
+  "id": 28,
+  "title": "DevOps Engineering Database Operations Specialist II, Technical Solutions",
+  "company_name": "Bristol Myers Squibb",
+  "company_location": "Hyderabad, Telangana",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c97"
+  },
+  "id": 29,
+  "title": "Junior Python Developer",
+  "company_name": "Websodev",
+  "company_location": "Patna, Bihar",
+  "salary": 19250
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c98"
+  },
+  "id": 30,
+  "title": "Data Engineer III",
+  "company_name": "Indeed",
+  "company_location": "Hyderabad, Telangana",
+  "salary": 6700000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c99"
+  },
+  "id": 31,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9a"
+  },
+  "id": 32,
+  "title": "Associate Multi-Skill Software Developer (Cloud and DevSecOps)",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9b"
+  },
+  "id": 33,
+  "title": "Associate Multi-Skill Software Developer - .Net & Cloud",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9c"
+  },
+  "id": 34,
+  "title": "Experienced Multi-Skill Software Developer (Cloud and DevSecOps)",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9d"
+  },
+  "id": 35,
+  "title": "Experienced Multi-Skill Software Developer (Java & Cloud)",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9e"
+  },
+  "id": 36,
+  "title": "Experienced Test Automation Engineer",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044c9f"
+  },
+  "id": 37,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca0"
+  },
+  "id": 38,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca1"
+  },
+  "id": 39,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca2"
+  },
+  "id": 40,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca3"
+  },
+  "id": 41,
+  "title": "Senior Python Developer",
+  "company_name": "Project 42 Labs",
+  "company_location": "Remote",
+  "salary": 900000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca4"
+  },
+  "id": 42,
+  "title": "Junior Python Developer",
+  "company_name": "Websodev",
+  "company_location": "Patna, Bihar",
+  "salary": 19250
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca5"
+  },
+  "id": 43,
+  "title": "Global IT Security Engineer Manager",
+  "company_name": "Boston Consulting Group",
+  "company_location": "New Delhi, Delhi",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca6"
+  },
+  "id": 44,
+  "title": "Full Stack Engineer - Manager",
+  "company_name": "Boston Consulting Group",
+  "company_location": "New Delhi, Delhi",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca7"
+  },
+  "id": 45,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca8"
+  },
+  "id": 46,
+  "title": "Software Engineering Manager, Client Ops - X Delivery",
+  "company_name": "Boston Consulting Group",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ca9"
+  },
+  "id": 47,
+  "title": "Junior Software Developer",
+  "company_name": "REAK INFOTECH LLP",
+  "company_location": "Jabalpur, Madhya Pradesh",
+  "salary": 525000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044caa"
+  },
+  "id": 48,
+  "title": "Python Developer",
+  "company_name": "Numerator",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cab"
+  },
+  "id": 49,
+  "title": "Python Developer",
+  "company_name": "Epsum Labs Pvt Ltd",
+  "company_location": "Bhubaneshwar, Orissa",
+  "salary": 39000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cac"
+  },
+  "id": 50,
+  "title": "Python/Django Developer",
+  "company_name": "Eminanz Technology",
+  "company_location": "Patna, Bihar",
+  "salary": 17500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cad"
+  },
+  "id": 51,
+  "title": "Python Developer Intern",
+  "company_name": "XPayBack",
+  "company_location": "Kochi, Kerala",
+  "salary": 26000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cae"
+  },
+  "id": 52,
+  "title": "Project Manager",
+  "company_name": "American Health Care Academy",
+  "company_location": "Remote",
+  "salary": 77500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044caf"
+  },
+  "id": 53,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb0"
+  },
+  "id": 54,
+  "title": "Engineering Manager",
+  "company_name": "Capital One",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb1"
+  },
+  "id": 55,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb2"
+  },
+  "id": 56,
+  "title": "Experienced Test Automation Engineer",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb3"
+  },
+  "id": 57,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote in Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb4"
+  },
+  "id": 58,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote in Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb5"
+  },
+  "id": 59,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb6"
+  },
+  "id": 60,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb7"
+  },
+  "id": 61,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb8"
+  },
+  "id": 62,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote in Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cb9"
+  },
+  "id": 63,
+  "title": "JavaScript, Python and Linux Developer",
+  "company_name": "Infosys",
+  "company_location": "Thiruvananthapuram, Kerala",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cba"
+  },
+  "id": 64,
+  "title": "Junior Python Developer",
+  "company_name": "Wisdomleaf Technologies (P) Limited",
+  "company_location": "India",
+  "salary": 350000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cbb"
+  },
+  "id": 65,
+  "title": "Junior Python Developer",
+  "company_name": "Websodev",
+  "company_location": "Patna, Bihar",
+  "salary": 19250
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cbc"
+  },
+  "id": 66,
+  "title": "Senior Python Developer",
+  "company_name": "Project 42 Labs",
+  "company_location": "Remote in Remote",
+  "salary": 900000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cbd"
+  },
+  "id": 67,
+  "title": "Python Developer",
+  "company_name": "Alchimetis",
+  "company_location": "Remote in Remote",
+  "salary": 60000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cbe"
+  },
+  "id": 68,
+  "title": "Software Engineer I, AWS Developer",
+  "company_name": "Bristol Myers Squibb",
+  "company_location": "Hyderabad, Telangana",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cbf"
+  },
+  "id": 69,
+  "title": "Software/Application Developer",
+  "company_name": "Client of Wish-WAS",
+  "company_location": "Remote in Remote",
+  "salary": 3250000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc0"
+  },
+  "id": 70,
+  "title": "Software Engineer",
+  "company_name": "GE",
+  "company_location": "Remote in Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc1"
+  },
+  "id": 71,
+  "title": "Sr SW Engineer",
+  "company_name": "Intuit",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc2"
+  },
+  "id": 72,
+  "title": "Software Engineer (Ruby, Python)",
+  "company_name": "NetApp",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc3"
+  },
+  "id": 73,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc4"
+  },
+  "id": 74,
+  "title": "Senior Staff Software Engineer",
+  "company_name": "Intuit",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc5"
+  },
+  "id": 75,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote in Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc6"
+  },
+  "id": 76,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote in Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc7"
+  },
+  "id": 77,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc8"
+  },
+  "id": 78,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cc9"
+  },
+  "id": 79,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cca"
+  },
+  "id": 80,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote in Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ccb"
+  },
+  "id": 81,
+  "title": "JavaScript, Python and Linux Developer",
+  "company_name": "Infosys",
+  "company_location": "Thiruvananthapuram, Kerala",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ccc"
+  },
+  "id": 82,
+  "title": "Junior Python Developer",
+  "company_name": "Websodev",
+  "company_location": "Patna, Bihar",
+  "salary": 19250
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ccd"
+  },
+  "id": 83,
+  "title": "Senior Software Engineer - Display",
+  "company_name": "ARM",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cce"
+  },
+  "id": 84,
+  "title": "Junior Python Developer",
+  "company_name": "Wisdomleaf Technologies (P) Limited",
+  "company_location": "India",
+  "salary": 350000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044ccf"
+  },
+  "id": 85,
+  "title": "Sales Engineer",
+  "company_name": "PubNub",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 3000000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd0"
+  },
+  "id": 86,
+  "title": "Associate Multi-Skill Software Developer (Cloud and DevSecOps)",
+  "company_name": "BOEING",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd1"
+  },
+  "id": 87,
+  "title": "Engineer SR. Software",
+  "company_name": "Giant Eagle GCC",
+  "company_location": "Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd2"
+  },
+  "id": 88,
+  "title": "Computer Science - online tutor/expert",
+  "company_name": "Chegg India",
+  "company_location": "Remote in India",
+  "salary": 10000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd3"
+  },
+  "id": 89,
+  "title": "Software Engineer (Golang, C,C++)",
+  "company_name": "NetApp",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd4"
+  },
+  "id": 90,
+  "title": "Software Engineer",
+  "company_name": "GE",
+  "company_location": "Remote in Bengaluru, Karnataka",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd5"
+  },
+  "id": 91,
+  "title": "Python Developer Intern",
+  "company_name": "Igsrs",
+  "company_location": "Remote in Remote",
+  "salary": 8000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd6"
+  },
+  "id": 92,
+  "title": "Freelance Software Developer",
+  "company_name": "seikor",
+  "company_location": "Remote in Remote",
+  "salary": 71500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd7"
+  },
+  "id": 93,
+  "title": "Python Senior Developer",
+  "company_name": "Infosys",
+  "company_location": "Indore, Madhya Pradesh",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd8"
+  },
+  "id": 94,
+  "title": "Full Stack Developer-Trainee",
+  "company_name": "Wipro",
+  "company_location": "Remote",
+  "salary": 37750
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cd9"
+  },
+  "id": 95,
+  "title": "Python Developer",
+  "company_name": "QuantGrade",
+  "company_location": "Remote in Noida, Uttar Pradesh",
+  "salary": 300000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cda"
+  },
+  "id": 96,
+  "title": "Python Developer",
+  "company_name": "Infiniticube Services Pvt Ltd",
+  "company_location": "Remote in Remote",
+  "salary": 22500
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cdb"
+  },
+  "id": 97,
+  "title": "Junior Python Developer",
+  "company_name": "Wisdomleaf Technologies (P) Limited",
+  "company_location": "India",
+  "salary": 350000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cdc"
+  },
+  "id": 98,
+  "title": "Software Engineer II, Enterprise Integration Developer - AWS Technologies",
+  "company_name": "Bristol Myers Squibb",
+  "company_location": "Hyderabad, Telangana",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652ec1af31f6f1b25b044cdd"
+  },
+  "id": 99,
+  "title": "JavaScript, Python and Linux Developer",
+  "company_name": "Infosys",
+  "company_location": "Thiruvananthapuram, Kerala",
+  "salary": 12000
+},
+{
+  "_id": {
+    "$oid": "652f0d3eccd19a8b367ee334"
+  },
+  "id": 0,
+  "title": "Sr. Databricks Developer",
+  "company_name": "Labcorp",
+  "company_location": "Bengaluru, Karnataka",
+  "salary": 10000,
+  "salary_min": 10000,
+  "salary_max": 10000,
+  "avg_salary": 10000
+}]
